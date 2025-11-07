@@ -1,3 +1,5 @@
+Bu proje, temel OOP (Nesne Yönelimli Programlama) kavramlarından başlayarak, TypeScript'in en ileri seviye özelliklerine (Koşullu Tipler, Mapped Tipler ve Template Literal Tipler) kadar geniş bir yelpazede örnekler sunmayı amaçlamaktadır.
+
 Soru1.ts => Fonksiyonlara esneklik katmak ve farklı veri tipleriyle güvenli bir şekilde çalışmak için kullanılan Generic tipleri ($<T, U>$) gösterir. İki farklı tipteki diziyi birleştirir.
 
 Soru2.ts => Bir değişkenin birden fazla tipe sahip olabileceği Union tipleri
