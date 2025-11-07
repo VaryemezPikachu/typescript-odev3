@@ -1,6 +1,6 @@
 Soru1.ts => Fonksiyonlara esneklik katmak ve farklı veri tipleriyle güvenli bir şekilde çalışmak için kullanılan Generic tipleri ($<T, U>$) gösterir. İki farklı tipteki diziyi birleştirir.
 
-Soru2.ts => 
+Soru2.ts => Bir değişkenin birden fazla tipe sahip olabileceği Union tipleri
 
 Soru3.ts => logHistory değişkenini private anahtar kelimesi ile tanımlayarak sınıf dışından erişimi kısıtlar ve kapsülleme ilkesini uygular. Bir sınıfın temel yapısını ve metotlarını gösterir.
 
