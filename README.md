@@ -1,4 +1,5 @@
-Bu proje, temel OOP (Nesne Yönelimli Programlama) kavramlarından başlayarak, TypeScript'in en ileri seviye özelliklerine (Koşullu Tipler, Mapped Tipler ve Template Literal Tipler) kadar geniş bir yelpazede örnekler sunmayı amaçlamaktadır.
+Bu proje, TypeScript’in gelişmiş tip sistemini öğrenmek ve uygulamalı örneklerle pekiştirmek amacıyla hazırlanmıştır.
+Her dosya, dilin farklı bir özelliğini (Generic, Union, Abstract Class, Utility Types, Conditional Types vb.) gösterir ve tip güvenli yazılım geliştirmenin mantığını kavratmayı hedefler.
 
 Soru1.ts => Fonksiyonlara esneklik katmak ve farklı veri tipleriyle güvenli bir şekilde çalışmak için kullanılan Generic tipleri ($<T, U>$) gösterir. İki farklı tipteki diziyi birleştirir.
 
